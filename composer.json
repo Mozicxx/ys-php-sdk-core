@@ -1,5 +1,5 @@
 {
-  "name": "ys-yzt-sdk/ysyzt-php-sdk-core",
+  "name": "mozic/ysyzt-php-sdk-core",
   "description": "ysyzt-php-sdk-core",
   "type": "library",
   "license": "MIT",
